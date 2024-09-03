@@ -19,4 +19,3 @@ The following all are the links to the scripts in this repository hoisted by I-G
 
 ![Picture1](https://github.com/user-attachments/assets/8e58b68f-9734-46b7-8cfc-ee5dd644f066)
 
-Study area map prepared by @santoshpalmate
