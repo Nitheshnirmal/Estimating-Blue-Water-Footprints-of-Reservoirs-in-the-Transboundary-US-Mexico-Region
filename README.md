@@ -1,6 +1,8 @@
 # Estimating-Blue-Water-Footprints-of-Reservoirs-in-the-Transboundary-US-Mexico-Region
 I-GUIDE NSF Summer School 2024 Team 3 Scripts
 
+Team Members: Mohamed Awaad, uixuan Ding, Kanak Kanti Kar, Pravin Maduwantha, Nitheshnirmal Sadhasivam, Maryam Sahraei, Santhosh Palmate
+
 This submission includes the scripts, data, and methodologies developed for the I-GUIDE Summer School 2024 Team 3 project, aimed at estimating changes in reservoir storage for the Elephant Butte Reservoir, New Mexico, using a combination of remote sensing data and machine learning models. The project leverages both Random Forest and Long Short-Term Memory (LSTM) models to accurately predict reservoir storage volumes. These models are trained on a comprehensive dataset that integrates in-situ measurements and remote sensing data collected over a 33-year period, from 1990 to 2023. By combining historical records with advanced remote sensing inputs, the study provides a robust framework for understanding and forecasting reservoir storage changes. This approach offers valuable insights for water resource management and planning in the face of climatic variability and changing hydrological conditions.
 
 The following all are the links to the scripts in this repository hoisted by I-GUIDE platform
@@ -17,4 +19,4 @@ The following all are the links to the scripts in this repository hoisted by I-G
 
 ![Picture1](https://github.com/user-attachments/assets/8e58b68f-9734-46b7-8cfc-ee5dd644f066)
 
-
+Study area map prepared by @santoshpalmate
