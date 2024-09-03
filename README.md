@@ -5,8 +5,12 @@ This submission includes the scripts, data, and methodologies developed for the 
 
 The following all are the links to the scripts in this repository hoisted by I-GUIDE platform
 
-Dataset: https://platform.i-guide.io/datasets/9ecd5525-a699-48a6-b54a-5a30368682d4
-RF Model 1: https://platform.i-guide.io/notebooks/466eff2f-ee35-43db-bb3c-c5e5ae454846
-RF Model 2: https://platform.i-guide.io/notebooks/ae040b09-3d88-4b99-8f78-2677cfb3dc05
-LSTM Model 1: https://platform.i-guide.io/notebooks/a13b11f2-2d36-4814-84b0-d29f3cf86255
-LSTM Model 2: https://platform.i-guide.io/notebooks/836ffa22-ef07-407d-99e8-cf5d75c4804e
+# Dataset: https://platform.i-guide.io/datasets/9ecd5525-a699-48a6-b54a-5a30368682d4
+
+# RF Model 1: https://platform.i-guide.io/notebooks/466eff2f-ee35-43db-bb3c-c5e5ae454846
+
+# RF Model 2: https://platform.i-guide.io/notebooks/ae040b09-3d88-4b99-8f78-2677cfb3dc05
+
+# LSTM Model 1: https://platform.i-guide.io/notebooks/a13b11f2-2d36-4814-84b0-d29f3cf86255
+
+# LSTM Model 2: https://platform.i-guide.io/notebooks/836ffa22-ef07-407d-99e8-cf5d75c4804e
