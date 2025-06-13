@@ -19,6 +19,11 @@ The following all are the links to the scripts in this repository hoisted by I-G
 
  LSTM Model 2: https://platform.i-guide.io/notebooks/836ffa22-ef07-407d-99e8-cf5d75c4804e
 
-![Picture6](https://github.com/user-attachments/assets/6e6e8d64-5a04-4bbb-b765-aef7f1e6e190)
+ ![Picture6](https://github.com/user-attachments/assets/6e6e8d64-5a04-4bbb-b765-aef7f1e6e190)
+
+<img width="796" alt="Screenshot 2025-06-13 at 11 51 52 AM" src="https://github.com/user-attachments/assets/bab4ceda-f293-475c-afc3-51f4a3f24cc4" />
+
+
+
 
 
