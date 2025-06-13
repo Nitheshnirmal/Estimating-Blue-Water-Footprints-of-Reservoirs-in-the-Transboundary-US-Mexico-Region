@@ -5,6 +5,8 @@ Team Members: Mohamed Awaad, uixuan Ding, Kanak Kanti Kar, Pravin Maduwantha, Ni
 
 This submission includes the scripts, data, and methodologies developed for the I-GUIDE Summer School 2024 Team 3 project, aimed at estimating changes in reservoir storage for the Elephant Butte Reservoir, New Mexico, using a combination of remote sensing data and machine learning models. The project leverages both Random Forest and Long Short-Term Memory (LSTM) models to accurately predict reservoir storage volumes. These models are trained on a comprehensive dataset that integrates in-situ measurements and remote sensing data collected over a 33-year period, from 1990 to 2023. By combining historical records with advanced remote sensing inputs, the study provides a robust framework for understanding and forecasting reservoir storage changes. This approach offers valuable insights for water resource management and planning in the face of climatic variability and changing hydrological conditions.
 
+This workflow is similar to that of predicting the water surface area of reservoirs using artificial intelligence techniques. The same approach applied here could be used to model and map the reservoirs across the world. We have showed how different models perform with satellite only derived variables and insitu measurements + satellite derived variables.
+
 The following all are the links to the scripts in this repository hoisted by I-GUIDE platform
 
  Dataset: https://platform.i-guide.io/datasets/9ecd5525-a699-48a6-b54a-5a30368682d4
